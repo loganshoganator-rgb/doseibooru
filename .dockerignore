@@ -1,9 +1,1 @@
-vendor
-.git
-.sl
-*.phar
-data
-images
-thumbs
-*.sqlite
-Dockerfile
+
